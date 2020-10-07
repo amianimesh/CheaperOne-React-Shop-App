@@ -19,6 +19,7 @@ function FileUpload(props) {
             secretAccessKey: process.env.REACT_APP_SECRET_ACCESS_KEY,
         }
 
+        
 
         const ReactS3Client = new S3(config2);
 
