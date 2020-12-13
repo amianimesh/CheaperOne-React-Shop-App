@@ -10,3 +10,6 @@ To use this application,
 3.Type " npm install " inside the root directory ( Download Server Dependencies )
 4.Type " npm install " inside the client directory ( Download Front-end Dependencies )
 5.For checkout u need  have an developer.paypal sandbox account
+
+# deployed here
+http://cheaperone.herokuapp.com/
